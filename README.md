@@ -1,0 +1,2 @@
+# bcb-challenge-1
+This is my first weekly challenge for my Berkley coding bootcamp. This project mainly consisted of fixing accessibiltiy issues. I added semantic tags, sectioned both the HTML and CSS code using comments, fixed an anchor issue, made the CSS file more concise by combining classes, and added 'alt' tags for every image.
